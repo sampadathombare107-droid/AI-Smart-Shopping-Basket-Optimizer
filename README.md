@@ -167,7 +167,9 @@ flowchart TD
 
 ## 🌐 Live Demo
 
-Coming Soon...
+🚀 **Try the Application Online**
+
+https://wxmtyingcsm2niasblbx83.streamlit.app/
 
 ---
 
