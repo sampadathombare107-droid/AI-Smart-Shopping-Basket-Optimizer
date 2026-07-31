@@ -9,7 +9,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
-
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://wxmtyingcsm2niasblbx83.streamlit.app/)
 A Machine Learning based Smart Shopping Recommendation System developed using Python and Streamlit.
 
 ## 🚀 Features
@@ -97,7 +97,11 @@ streamlit run app.py
 
 ---
 ## 🏗️ Project Architecture
+## 🌐 Live Demo
 
+🚀 **Try the Application Online**
+
+https://wxmtyingcsm2niasblbx83.streamlit.app/
 ```mermaid
 flowchart TD
 
