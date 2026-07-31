@@ -91,7 +91,39 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-(Add screenshots after uploading the project.)
+### 🏠 Home Page
+
+![Home](screenshots/home.png)
+
+---
+
+### 📊 Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+### 🔍 Product Search
+
+![Product Search](screenshots/product%20search.png)
+
+---
+
+### 🤖 AI Recommendation
+
+![AI Recommendation](screenshots/AI%20Recommendation.png)
+
+---
+
+### 🛒 Frequently Bought Together
+
+![Frequently Bought Together](screenshots/Frequently%20Bought%20Together.png)
+
+---
+
+### ℹ️ About
+
+![About](screenshots/About.png)
 
 ---
 
@@ -107,4 +139,4 @@ Coming Soon...
 
 Bachelor of Engineering (B.E.)
 
-Machine Learning & Java Full Stack Developer
+Data Science & Machine Learning Enthusiast
