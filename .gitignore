@@ -1,0 +1,29 @@
+# Virtual Environment
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environment files
+.env
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Raw datasets (large files)
+data/raw/
+
+# Keep processed data
+!data/processed/
+
+# Git metadata
+.git/
