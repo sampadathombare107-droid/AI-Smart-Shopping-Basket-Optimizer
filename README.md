@@ -1,8 +1,16 @@
-# 🛒 AI Smart Shopping Basket Optimizer
 
-A Machine Learning based Smart Shopping Recommendation System developed using Python and Streamlit.
 
 ---
+# 🛒 AI Smart Shopping Basket Optimizer
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+A Machine Learning based Smart Shopping Recommendation System developed using Python and Streamlit.
 
 ## 🚀 Features
 
@@ -88,7 +96,33 @@ streamlit run app.py
 ```
 
 ---
+## 🏗️ Project Architecture
 
+```mermaid
+flowchart TD
+
+    A[👤 User] --> B[🛒 Streamlit Web Application]
+
+    B --> C[📊 Dashboard]
+    B --> D[🔍 Product Search]
+    B --> E[🤖 AI Recommendation]
+    B --> F[🛒 Frequently Bought Together]
+
+    D --> G[(BigBasket Dataset)]
+
+    E --> H[TF-IDF Vectorizer]
+    H --> I[Cosine Similarity]
+    I --> J[Recommended Products]
+
+    F --> K[(Online Retail Dataset)]
+    K --> L[Apriori Algorithm]
+    L --> M[Association Rules]
+    M --> N[Frequently Bought Products]
+
+    J --> O[🎯 Final Recommendation]
+
+    N --> O
+```
 ## 📸 Screenshots
 
 ### 🏠 Home Page
